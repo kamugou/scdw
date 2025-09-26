@@ -1,7 +1,7 @@
 - # SCDW: Semi-supervised Cervical Abnormal Cell Detection via Whole Slide Image Labeling
 
   > Official implementation of **SCDW**, a novel semi-supervised framework for cervical abnormal cell detection leveraging WSI-level diagnostic labels.  
-  > Built upon [SoftTeacher](https://github.com/microsoft/SoftTeacher) and [MMDetection](https://github.com/open-mmlab/mmdetection).
+  > Built upon  [MMDetection](https://github.com/open-mmlab/mmdetection).
 
   ---
 
