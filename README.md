@@ -76,4 +76,6 @@
 
 - [MMDetection](https://github.com/open-mmlab/mmdetection)
 - [SoftTeacher](https://github.com/microsoft/SoftTeacher)
-
+- [MixPL](https://github.com/Czm369/MixPL)
+- [ConsistentTeacher](https://github.com/Adamdad/ConsistentTeacher)
+- [SCAC](https://github.com/Lewisonez/cc_detection)
